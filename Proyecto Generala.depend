@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1593294228 source:c:\users\lenovo\desktop\proyecto generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesNuestras.h"
+	"rlutil.h"
+
+1593294296 c:\users\lenovo\desktop\proyecto generala\funcionesnuestras.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<time.h>
+
+1571569938 c:\users\lenovo\desktop\proyecto generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
