@@ -27,7 +27,7 @@ void ordenarVector(int v[], int tam );/// ordena de menor a mayor un vector
 
 int sumarVector(int v[], int tam ); /// suma los valores contenidos en el vector
 
-int copiarVector(int v[], int v2[],int tam ); ///copia el vector v en v2
+void copiarVector(int v[], int v2[],int tam ); ///copia el vector v en v2
 
 bool compararVectores(int v[], int v2[],int tam );/// compara los dos vectores que recibe. Si son iguales
 ///devuelve true, si no devuelve false
@@ -880,7 +880,7 @@ int sumarVector(int v[], int tam ){
     return suma;
 }
 
-int copiarVector(int v[], int v2[],int tam ){
+void copiarVector(int v[], int v2[],int tam ){
     int i;
     for(i=0;i<tam;i++){
         v2[i]=v[i];

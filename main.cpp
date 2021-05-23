@@ -4,6 +4,7 @@
 using namespace std;
 #include "funcionesNuestras.h"
 #include "rlutil.h"
+
 int modoDeDos (char jugador1[], char jugador2[], int &rondasGanador, int &puntajeGanador, char nombreGanador [], char nombreEmpate[],int &rondasPerdedor, int &puntajePerdedor, char nombrePerdedor[]);
 int modoDeUno(char jugador1 [], int &rondasGanador, char nombreGanador[], int &puntajeGanador);
 void titulo();
@@ -25,9 +26,9 @@ char nombreMasAlta1 [30];
 char nombreMasAlta2 [30];
 char nombreGanador [30];
 char nombreEmpate [30]{'-'};
-char empatados[30];
+//char empatados[30];
 char nombrePerdedor [30];
-int tam = 3;
+//int tam = 3;
 char nombre1[30];
 char nombre2[30];
 int opcion, opcion2;

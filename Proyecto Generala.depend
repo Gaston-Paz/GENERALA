@@ -26,3 +26,31 @@
 	<sys/types.h>
 	<sys/time.h>
 
+1621740288 source:c:\users\gastón\documents\github\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"funcionesNuestras.h"
+	"rlutil.h"
+
+1621740262 c:\users\gastón\documents\github\generala\funcionesnuestras.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<time.h>
+	"rlutil.h"
+
+1621739992 c:\users\gastón\documents\github\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
